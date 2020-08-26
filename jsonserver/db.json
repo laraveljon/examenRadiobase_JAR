@@ -1,0 +1,375 @@
+{
+  "radiobases": [
+    {
+      "id": 1,
+      "radiobase": "RB010017C101",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 45.15
+    },
+    {
+      "id": 2,
+      "radiobase": "RB010017C102",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 40.32
+    },
+    {
+      "id": 3,
+      "radiobase": "RB011915C001",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 89.59
+    },
+    {
+      "id": 4,
+      "radiobase": "RB010017C102",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 19.03
+    },
+    {
+      "id": 5,
+      "radiobase": "RB011938C001",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 40.32
+    },
+    {
+      "id": 6,
+      "radiobase": "RB012253C001",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 20.52
+    },
+    {
+      "id": 7,
+      "radiobase": "RB012282C001",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 18
+    },
+    {
+      "id": 8,
+      "radiobase": "RB012283C001",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 20.86
+    },
+    {
+      "id": 9,
+      "radiobase": "RB012318C101",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 2.61
+    },
+    {
+      "id": 10,
+      "radiobase": "RB012318C102",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 2.3
+    },
+    {
+      "id": 11,
+      "radiobase": "RB012318C103",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 1.8
+    },
+    {
+      "id": 12,
+      "radiobase": "RB012318C104",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 0.6
+    },
+    {
+      "id": 13,
+      "radiobase": "RB012282C001",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 18
+    },
+    {
+      "id": 14,
+      "radiobase": "RB012318C105",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 0.64
+    },
+    {
+      "id": 15,
+      "radiobase": "RB012318C106",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 0.34
+    },
+    {
+      "id": 16,
+      "radiobase": "RB012319C101",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 0.57
+    },
+    {
+      "radiobase": "RB012319C102",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 0.91,
+      "id": 17
+    },
+    {
+      "radiobase": "RB012319C104",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 0.45,
+      "id": 18
+    },
+    {
+      "radiobase": "RB012319C105",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 0.28,
+      "id": 19
+    },
+    {
+      "radiobase": "RB012321C101",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 12.61,
+      "id": 20
+    },
+    {
+      "radiobase": "RB018480C101",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 110.22,
+      "id": 21
+    },
+    {
+      "radiobase": "RB019079C101",
+      "fecha": "23/08/2019",
+      "region": 6,
+      "trafico": 101.18,
+      "id": 22
+    },
+    {
+      "radiobase": "RB020174C101",
+      "fecha": "23/08/2019",
+      "region": 1,
+      "trafico": 144.82,
+      "id": 23
+    },
+    {
+      "radiobase": "RB021817C001",
+      "fecha": "23/08/2019",
+      "region": 1,
+      "trafico": 7.74,
+      "id": 24
+    },
+    {
+      "radiobase": "RB021817C004",
+      "fecha": "23/08/2019",
+      "region": 1,
+      "trafico": 10.48,
+      "id": 25
+    },
+    {
+      "radiobase": "RB021817C021",
+      "fecha": "23/08/2019",
+      "region": 1,
+      "trafico": 2.29,
+      "id": 26
+    },
+    {
+      "radiobase": "RB021817C024",
+      "fecha": "23/08/2019",
+      "region": 1,
+      "trafico": 3.38,
+      "id": 27
+    },
+    {
+      "radiobase": "RB021818C001",
+      "fecha": "23/08/2019",
+      "region": 1,
+      "trafico": 31.1,
+      "id": 28
+    },
+    {
+      "radiobase": "RB021820C001",
+      "fecha": "23/08/2019",
+      "region": 1,
+      "trafico": 6.07,
+      "id": 29
+    },
+    {
+      "radiobase": "RB021821C001",
+      "fecha": "23/08/2019",
+      "region": 1,
+      "trafico": 10.79,
+      "id": 30
+    },
+    {
+      "radiobase": "RB021823C001",
+      "fecha": "23/08/2019",
+      "region": 1,
+      "trafico": 73.78,
+      "id": 31
+    },
+    {
+      "radiobase": "RB021826C001",
+      "fecha": "23/08/2019",
+      "region": 1,
+      "trafico": 6.53,
+      "id": 32
+    },
+    {
+      "radiobase": "RB021826C021",
+      "fecha": "23/08/2019",
+      "region": 1,
+      "trafico": 1.37,
+      "id": 33
+    },
+    {
+      "radiobase": "RB021828C001",
+      "fecha": "23/08/2019",
+      "region": 1,
+      "trafico": 17.65,
+      "id": 34
+    },
+    {
+      "radiobase": "RB021829C001",
+      "fecha": "23/08/2019",
+      "region": 1,
+      "trafico": 37.66,
+      "id": 35
+    },
+    {
+      "radiobase": "RB021832C001",
+      "fecha": "23/08/2019",
+      "region": 1,
+      "trafico": 0.93,
+      "id": 36
+    },
+    {
+      "radiobase": "RB021832C004",
+      "fecha": "23/08/2019",
+      "region": 1,
+      "trafico": 1.05,
+      "id": 37
+    },
+    {
+      "radiobase": "RB021832C021",
+      "fecha": "23/08/2019",
+      "region": 1,
+      "trafico": 0.92,
+      "id": 38
+    },
+    {
+      "radiobase": "RB021832C024",
+      "fecha": "23/08/2019",
+      "region": 1,
+      "trafico": 0.25,
+      "id": 39
+    },
+    {
+      "radiobase": "RB021832C101",
+      "fecha": "23/08/2019",
+      "region": 1,
+      "trafico": 0.93,
+      "id": 40
+    },
+    {
+      "radiobase": "RB021833C001",
+      "fecha": "23/08/2019",
+      "region": 1,
+      "trafico": 29.73,
+      "id": 41
+    },
+    {
+      "radiobase": "RB010017C101",
+      "fecha": "25/08/2019",
+      "region": 6,
+      "trafico": 63.43,
+      "id": 42
+    },
+    {
+      "radiobase": "RB010017C101",
+      "fecha": "27/08/2019",
+      "region": 6,
+      "trafico": 28.13,
+      "id": 43
+    },
+    {
+      "radiobase": "RB010017C101",
+      "fecha": "29/08/2019",
+      "region": 6,
+      "trafico": 28.84,
+      "id": 44
+    },
+    {
+      "radiobase": "RB010017C101",
+      "fecha": "01/09/2019",
+      "region": 6,
+      "trafico": 64.52,
+      "id": 45
+    },
+    {
+      "radiobase": "RB010017C101",
+      "fecha": "03/09/2019",
+      "region": 6,
+      "trafico": 25.58,
+      "id": 46
+    },
+    {
+      "radiobase": "RB010017C101",
+      "fecha": "04/09/2019",
+      "region": 6,
+      "trafico": 25.79,
+      "id": 47
+    },
+    {
+      "radiobase": "RB010017C101",
+      "fecha": "07/09/2019",
+      "region": 6,
+      "trafico": 52.94,
+      "id": 48
+    },
+    {
+      "radiobase": "RB010017C101",
+      "fecha": "08/09/2019",
+      "region": 6,
+      "trafico": 59.64,
+      "id": 49
+    },
+    {
+      "radiobase": "RB010017C101",
+      "fecha": "09/09/2019",
+      "region": 6,
+      "trafico": 25.59,
+      "id": 50
+    },
+    {
+      "radiobase": "RB010017C101",
+      "fecha": "09/09/2019",
+      "region": 6,
+      "trafico": 52.27,
+      "id": 51
+    },
+    {
+      "radiobase": "RB010017C102",
+      "fecha": "09/09/2019",
+      "region": 6,
+      "trafico": 52.27,
+      "id": 52
+    },
+    {
+      "radiobase": "RB010017C102",
+      "fecha": "29/08/2019",
+      "region": 6,
+      "trafico": 31.69,
+      "id": 53
+    }
+  ]
+}
